@@ -1,5 +1,7 @@
 # APIDeploymentTargetChecker
 
+## Deprecated from Xcode 7.3 which supports -Wpartial-availability flag
+
 Be warn about iOS API call not available for current deployment target at compile time
 
 
